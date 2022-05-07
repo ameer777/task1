@@ -226,7 +226,7 @@ public class AutoAlgo1 {
 	int leftOrRight = 1;
 	
 
-	double max_rotation_to_direction = 20;
+	double max_rotation_to_direction = 23;
 	boolean  is_finish = true;
 	boolean isLeftRightRotationEnable = true;
 	
@@ -235,13 +235,13 @@ public class AutoAlgo1 {
 	int max_risky_distance = 150;
 	boolean try_to_escape = false;
 	double  risky_dis = 0;
-	int max_angle_risky = 10;
+	int max_angle_risky = 13;
 	
 	boolean is_lidars_max = false;
 	
-	double save_point_after_seconds = 3;
+	double save_point_after_seconds = 2;
 	
-	double max_distance_between_points = 100;
+	double max_distance_between_points = 120;
 	
 	boolean start_return_home = false;
 	
