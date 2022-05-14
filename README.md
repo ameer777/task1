@@ -52,3 +52,8 @@ If you wish to add custom map it has to be black/white pixels- black is wall/obs
 ![](https://i.imgur.com/Y73PO2C.png)
 ![graphexample](https://user-images.githubusercontent.com/28596354/60256218-cc095680-98d9-11e9-8ab4-70c00e863df8.png)
 
+
+208049791
+207928649
+211468509
+
